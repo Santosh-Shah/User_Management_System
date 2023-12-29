@@ -1,6 +1,7 @@
 package com.ssproject.controller;
 
 import com.ssproject.model.UserDtls;
+import com.ssproject.service.UserService;
 import jakarta.servlet.http.HttpSession;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
